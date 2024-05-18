@@ -4,7 +4,27 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    height: 100vh;
+    margin: 0;
 
-}
+    }
+    .login-container{
+        background-color:#fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px;
+        width: 300;
+        text-align: center;
+        
+    }
+    h2{
+        margin-bottom: 20px;
+        font-size: 20 px;
+        color: #333;
+    }
+    label{
+        margin-bottom: 5px;  
+        font-weight: bold;
+        text-align: left;
+    }
 
